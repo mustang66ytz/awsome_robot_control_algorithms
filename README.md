@@ -8,3 +8,7 @@ A survey of useful robot manipulation algorithm implementations
 
 ## Perception: Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network
 [GRCNN](https://github.com/skumra/robotic-grasping)
+
+
+## LLM & VLM: VoxPoser
+[VoxPoser](https://github.com/huangwl18/VoxPoser?tab=readme-ov-file)
