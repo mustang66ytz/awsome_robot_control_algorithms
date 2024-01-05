@@ -17,4 +17,6 @@ A survey of useful robot manipulation algorithm implementations
 A collection of useful robot development platforms
 
 ## trossen robotics python control interface
-https://www.trossenrobotics.com/docs/interbotix_xsarms/ros_packages/python_demos.html
+[doc](https://www.trossenrobotics.com/docs/interbotix_xsarms/ros_packages/python_demos.html)
+[python example](https://github.com/Interbotix/interbotix_ros_manipulators/tree/main/interbotix_ros_xsarms/examples/python_demos)
+[arm control](https://github.com/Interbotix/interbotix_ros_toolboxes/blob/main/interbotix_xs_toolbox/interbotix_xs_modules/src/interbotix_xs_modules/arm.py)
