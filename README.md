@@ -12,3 +12,9 @@ A survey of useful robot manipulation algorithm implementations
 
 ## LLM & VLM: VoxPoser
 [VoxPoser](https://github.com/huangwl18/VoxPoser?tab=readme-ov-file)
+
+# awsome_robot_platform
+A collection of useful robot development platforms
+
+## trossen robotics python control interface
+https://www.trossenrobotics.com/docs/interbotix_xsarms/ros_packages/python_demos.html
