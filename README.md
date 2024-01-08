@@ -5,6 +5,8 @@ A survey of useful robot manipulation algorithm implementations
 [ddp](https://github.com/imgeorgiev/ddp/tree/main)  
 [sympy](https://github.com/sympy/sympy)  
 
+[null-space](https://github.com/jhavl/dkt/blob/main/Part%202/4%20Null-Space%20Projection%20for%20Motion%20Control.ipynb)
+
 
 ## Perception: Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network
 [GRCNN](https://github.com/skumra/robotic-grasping)
